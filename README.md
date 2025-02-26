@@ -5,7 +5,7 @@ Software Engineering Day1 Assignment
 #Part 1: Introduction to Software Engineering
 
 Explain what software engineering is and discuss its importance in the technology industry.
-software engineering is extremely important in the technology business. software engineering contributes to the prevent of software failures, which can have major repercussions, particularly in industries such as healthcare, banking, and transportation. software engineering enables businesses to create creative software solutions that suit consumers' changing needs, allowing them to remain competitive in the market and respond to developing trends and responds.
+software engineering is the application of engineering principles and techniques to design, development, testing, and maintenance of software system. extremely important in the technology business. software engineering contributes to the prevent of software failures, which can have major repercussions, particularly in industries such as healthcare, banking, and transportation. software engineering enables businesses to create creative software solutions that suit consumers' changing needs, allowing them to remain competitive in the market and respond to developing trends and responds.
 
 Identify and describe at least three key milestones in the evolution of software engineering.
 1968 NATO Software Engineering conference. the NATO Software engineering conference signaled the start of software engineering as a distinct subject. the conference gathered together specialists to talk about the problems of software development and the need for a more structured approach.
